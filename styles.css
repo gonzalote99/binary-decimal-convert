@@ -1,0 +1,47 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #e4e4e4;
+}
+
+form {
+  text-align: end;
+  margin-right: 410px;
+}
+
+.content {
+  margin: 150px;
+  text-align: center;
+}
+
+input {
+  border-radius: 10px;
+}
+
+
+#BinValue {
+  margin-top: 10px;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3489db, #2980db );
+  background-image: -moz-linear-gradient(top, #3489db, #2980db);
+  background-image: -ms-linear-gradient(top, #3489db, #2980db);
+  background-image: -o-linear-gradient(top, #3489db, #2980db);
+  background-image: linear-gradient(to botton, #3489db, #2980db );
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+
+
+
+
+}
+
+.btn:hover {
+  background: #3cb0fd;
+}
+
+.errorLabel {
+  color: red
+}
